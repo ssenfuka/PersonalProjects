@@ -116,7 +116,7 @@ body {
 h1, h2, h3, h4, h5, h6, [class^='heading-'] {
 	margin-top: 0;
 	margin-bottom: 0;
-	color: #29293a;
+	color: #515609;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, [class^='heading-'] a {
@@ -124,7 +124,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, [class^='heading-'] a {
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class^='heading-'] a:hover {
-	color: #0a024a;
+	color: #375e04;
 }
 
 h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, [class^='heading-'] span {
@@ -132,7 +132,7 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, [class^='heading-'] span {
 }
 
 h1 span[data-toggle='modal'], h2 span[data-toggle='modal'], h3 span[data-toggle='modal'], h4 span[data-toggle='modal'], h5 span[data-toggle='modal'], h6 span[data-toggle='modal'], [class^='heading-'] span[data-toggle='modal'] {
-	border-bottom: 2px dashed rgba(26, 183, 133, 0.3);
+	border-bottom: 2px dashed #375e04;
 	cursor: pointer;
 }
 
@@ -355,7 +355,7 @@ mark,
 .mark {
 	padding: 3px 5px;
 	color: #fff;
-	background: #1ab785;
+	background: #375e04;
 }
 
 strong {
@@ -463,7 +463,7 @@ code {
 p [data-toggle='tooltip'] {
 	padding-left: .25em;
 	padding-right: .25em;
-	color: #1ab785;
+	color: #375e04;
 }
 
 p [style*='max-width'] {
@@ -485,11 +485,11 @@ p .text-width-1 {
 }
 
 html .page .text-primary {
-	color: #1ab785;
+	color: #375e04;
 }
 
 .text-accent {
-	color: #1ab785;
+	color: #375e04;
 }
 
 .page .text-danger {
@@ -650,7 +650,7 @@ a[href*='tel'], a[href*='mailto'] {
 	min-width: 26px;
 	font-size: 24px;
 	line-height: 1;
-	color: #1ab785;
+	color: #375e04;
 }
 
 .box-minimal-icon.fl-bigmug-line-checkmark14 {
@@ -726,7 +726,7 @@ a[href*='tel'], a[href*='mailto'] {
 .box-light-icon {
 	font-size: 30px;
 	line-height: 1;
-	color: #1ab785;
+	color: #375e04;
 }
 
 * + .box-light-title {
