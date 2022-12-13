@@ -7,7 +7,7 @@
    ========================================================================== */
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #546E7A;
+  color: #626b6e;
   font-size: 14px;
   font-weight: 400;
   background: #fff;
@@ -27,11 +27,11 @@ p {
 }
 
 a:hover, a:focus {
-  color: #F97794;
+  color: #375e04;
 }
 
 a {
-  color: #F97794;
+  color: #375e04;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -106,7 +106,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   bottom: -8px;
   width: 80px;
   height: 2px;
-  background: #F97794;
+  background: #375e04;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   transition: 0.3s;
@@ -150,7 +150,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .btn-common {
-  background-color: #F97794;
+  background-color: #375e04;
   position: relative;
   z-index: 1;
   padding: 12px 32px;
@@ -194,7 +194,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .btn-border:hover {
   color: #ffffff;
-  background-color: #F97794;
+  background-color: #375e04;
 }
 
 .btn-lg {
@@ -252,67 +252,67 @@ button:focus {
 }
 
 .facebook a {
-  color: #4867AA;
+  color: #375e04;
 }
 
 .facebook a:hover {
-  background: #4867AA;
+  background: #375e04;
 }
 
 .twitter a {
-  color: #1DA1F2;
+  color: #375e04;
 }
 
 .twitter a:hover {
-  background: #1DA1F2;
+  background: #375e04;
 }
 
 .google-plus a {
-  color: #DD4D42;
+  color: #375e04;
 }
 
 .google-plus a:hover {
-  background: #DD4D42;
+  background: #375e04;
 }
 
 .youtube a {
-  color: #DF2926;
+  color: #375e04;
 }
 
 .youtube a:hover {
-  background: #DF2926;
+  background: #375e04;
 }
 
 .linkedin a {
-  color: #007BB6;
+  color: #375e04;
 }
 
 .linkedin a:hover {
-  background: #007BB6;
+  background: #375e04;
 }
 
 .pinterest a {
-  color: #BD081C;
+  color: #375e04;
 }
 
 .pinterest a:hover {
-  background: #BD081C;
+  background: #375e04;
 }
 
 .dribbble a {
-  color: #EA4C89;
+  color: #375e04;
 }
 
 .dribbble a:hover {
-  background: #EA4C89;
+  background: #375e04;
 }
 
 .behance a {
-  color: #0B7CFF;
+  color: #375e04;
 }
 
 .behance a:hover {
-  background: #0B7CFF;
+  background: #375e04;
 }
 
 /* ==========================================================================
@@ -340,7 +340,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #F97794;
+  background-color: #375e04;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -393,7 +393,7 @@ button:focus {
   font-size: 14px;
   text-align: center;
   border-radius: 30px;
-  background-color: #F97794;
+  background-color: #375e04;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -410,7 +410,7 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #F97794;
+  background: #375e04;
   opacity: 0.5;
   filter: alpha(opacity=80);
 }
@@ -459,7 +459,7 @@ button:focus {
 
 .menu-bg .menu-button:hover {
   cursor: pointer;
-  color: #F97794;
+  color: #375e04;
 }
 
 .menu-bg .logo-menu a {
@@ -471,11 +471,11 @@ button:focus {
 }
 
 .menu-bg .navbar-nav .nav-link:hover {
-  color: #F97794 !important;
+  color: #375e04 !important;
 }
 
 .menu-bg .navbar-nav .active {
-  color: #F97794 !important;
+  color: #375e04 !important;
 }
 
 .menu-button:hover {
@@ -496,11 +496,11 @@ button:focus {
 
 .bg-white .menu-button:hover {
   cursor: pointer;
-  color: #F97794;
+  color: #375e04;
 }
 
 .bg-white .logo-menu a {
-  color: #F97794;
+  color: #375e04;
 }
 
 .bg-white .navbar-nav .nav-link {
@@ -508,11 +508,11 @@ button:focus {
 }
 
 .bg-white .navbar-nav .nav-link:hover {
-  color: #F97794 !important;
+  color: #375e04 !important;
 }
 
 .bg-white .navbar-nav .active {
-  color: #F97794 !important;
+  color: #375e04 !important;
 }
 
 .close-button {
@@ -534,7 +534,7 @@ button:focus {
   left: 0;
   width: 0;
   height: 2px;
-  background: #F97794;
+  background: #375e04;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   transition: 0.3s;
@@ -552,7 +552,7 @@ button:focus {
 .navbar-expand-md .navbar-nav .nav-link:focus,
 .navbar-expand-md .navbar-nav .nav-link:hover,
 .navbar-expand-md .navbar-nav .nav-link:hover:before {
-  color: #F97794;
+  color: #375e04;
 }
 
 .navbar-expand-md .navbar-nav .active > .nav-link,
@@ -560,11 +560,11 @@ button:focus {
 .navbar-expand-md .navbar-nav .nav-link.active:before,
 .navbar-expand-md .navbar-nav .nav-link.open,
 .navbar-expand-md .navbar-nav .open > .nav-link {
-  color: #F97794;
+  color: #375e04;
 }
 
 .navbar-expand-md .navbar-toggler {
-  background: #F97794;
+  background: #375e04;
   border-radius: 0px;
   margin: 5px;
   cursor: pointer;
@@ -604,7 +604,7 @@ button:focus {
    Hero Area
    ========================================================================== */
 .hero-area {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/hero-area.jpeg) no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
