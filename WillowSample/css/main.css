@@ -596,8 +596,8 @@ button:focus {
 }
 
 .navbar-expand-md .navbar-toggler:active {
-  border: 1px solid #F97794;
-  color: #F97794;
+  border: 1px solid #375e04;
+  color: #375e04;
 }
 
 /* ==========================================================================
@@ -617,7 +617,7 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #F97794;
+  background: #375e04;
   opacity: 0.7;
 }
 
@@ -665,7 +665,7 @@ button:focus {
 }
 
 .hero-area .banner_bottom_btn i:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .intro-img {
@@ -855,7 +855,7 @@ button:focus {
 }
 
 #video-area .banner_bottom_btn i:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 /* ==========================================================================
@@ -879,7 +879,7 @@ button:focus {
 }
 
 #about .box-item .icon i {
-  color: #F97794;
+  color: #375e04;
   display: inline-block;
   font-size: 36px;
   margin-bottom: 20px;
@@ -1053,8 +1053,8 @@ button:focus {
 }
 
 .controls .active {
-  color: #F97794 !important;
-  border-color: #F97794;
+  color: #375e04 !important;
+  border-color: #375e04;
   background: transparent;
 }
 
@@ -1152,7 +1152,7 @@ button:focus {
 .item-boxes .icon i {
   font-size: 30px;
   line-height: 60px;
-  color: #F97794;
+  color: #375e04;
 }
 
 .item-boxes h4 {
@@ -1214,7 +1214,7 @@ button:focus {
 
 .services-item .color-2 i {
   background: #E6F8ED;
-  color: #57D283 !important;
+  color: #375e04 !important;
 }
 
 .services-item .color-3 i {
@@ -1252,7 +1252,7 @@ button:focus {
 }
 
 .services-item .services-content h3 a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .services-item:hover {
@@ -1306,7 +1306,7 @@ button:focus {
   font-size: 32px;
   text-align: center;
   margin-bottom: 30px;
-  color: #F97794;
+  color: #375e04;
   transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1342,7 +1342,7 @@ button:focus {
 
 .featured-box .featured-icon i {
   font-size: 30px;
-  color: #F97794;
+  color: #375e04;
   text-align: center;
   float: left;
   margin-right: 25px;
@@ -1444,7 +1444,7 @@ button:focus {
   line-height: 34px;
   text-align: center;
   width: 34px;
-  color: #F97794;
+  color: #375e04;
   font-size: 14px;
   background: #fff;
   border-radius: 50px;
@@ -1454,22 +1454,22 @@ button:focus {
 }
 
 .single-team .social-list .facebook a:hover {
-  background: #4867aa;
+  background: #375e04;
   color: #fff;
 }
 
 .single-team .social-list .twitter a:hover {
-  background: #1da1f2;
+  background: #375e04;
   color: #fff;
 }
 
 .single-team .social-list .google-plus a:hover {
-  background: #dd4d42;
+  background: #375e04;
   color: #fff;
 }
 
 .single-team .social-list .linkedin a:hover {
-  background: #007bb6;
+  background: #375e04;
   color: #fff;
 }
 
@@ -1518,7 +1518,7 @@ button:focus {
 }
 
 .testimonial-item .author .author-info h2 a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .testimonial-item .content-inner {
@@ -1531,7 +1531,7 @@ button:focus {
 }
 
 .testimonial-item .content-inner span {
-  color: #F97794;
+  color: #375e04;
 }
 
 .owl-pagination {
@@ -1565,7 +1565,7 @@ button:focus {
 }
 
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #F97794;
+  background: #375e04;
 }
 
 /* ==========================================================================
@@ -1710,7 +1710,7 @@ button:focus {
   color: #fff;
   font-size: 24px;
   display: inline-block;
-  background: #F97794;
+  background: #375e04;
   border-radius: 30px;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -1819,7 +1819,7 @@ button:focus {
 }
 
 #blog .blog-item-text h3 a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .meta-tags {
@@ -1841,7 +1841,7 @@ button:focus {
 }
 
 .meta-tags span a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 /* ==========================================================================
@@ -1906,7 +1906,7 @@ button:focus {
   padding: 5px;
   border-radius: 3px;
   background: #ffffff;
-  border: 1px dashed #346AFE;
+  border: 1px dashed #375e04;
 }
 
 .blog-comment .comment-author {
@@ -1959,7 +1959,7 @@ button:focus {
 }
 
 .form-control:focus {
-  border: 1px solid #F97794;
+  border: 1px solid #375e04;
   outline: none;
   box-shadow: none;
 }
@@ -1978,7 +1978,7 @@ textarea {
 
 .contact-info i {
   font-size: 20px;
-  color: #F97794;
+  color: #375e04;
 }
 
 .contact-info h5 {
@@ -2008,7 +2008,7 @@ textarea {
 }
 
 .list-unstyled li {
-  color: #d9534f;
+  color: #375e04;
 }
 
 /* Contact Map */
@@ -2044,7 +2044,7 @@ textarea {
   -webkit-border-radius: 100%;
   border-radius: 100%;
   background-color: #fff;
-  border: #F97794 3px solid;
+  border: #375e04 3px solid;
   position: relative;
   top: -46px;
 }
@@ -2069,7 +2069,7 @@ textarea {
   transition: all 0.3s;
   z-index: 101;
   width: 100%;
-  border-top: #F97794 3px solid;
+  border-top: #375e04 3px solid;
 }
 
 #google-map.panel-show {
@@ -2127,7 +2127,7 @@ textarea {
 .subscribe-form .form-wrapper .form-control:focus {
   color: #212121;
   background-color: #fff;
-  border-color: #F97794;
+  border-color: #375e04;
   box-shadow: none;
   outline: 0;
 }
@@ -2150,7 +2150,7 @@ textarea {
 
 #subscribe .sub-item-box .icon-box i {
   font-size: 30px;
-  color: #F97794;
+  color: #375e04;
 }
 
 #subscribe .sub-item-box .text-box {
@@ -2211,7 +2211,7 @@ footer .menu li a {
 }
 
 footer .menu li a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .contact-footer {
@@ -2239,7 +2239,7 @@ footer .menu li a:hover {
 }
 
 .contact-footer li span a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 .instagram-footer {
@@ -2264,7 +2264,7 @@ footer .menu li a:hover {
 }
 
 .footer-social li a {
-  background-color: #F97794;
+  background-color: #375e04;
   border-radius: 50%;
   color: #fff;
   height: 32px;
@@ -2278,19 +2278,19 @@ footer .menu li a:hover {
 }
 
 .footer-social li .facebook:hover {
-  background-color: #3b5998;
+  background-color: #375e04;
 }
 
 .footer-social li .twitter:hover {
-  background-color: #55acee;
+  background-color: #375e04;
 }
 
 .footer-social li .linkedin:hover {
-  background-color: #007bb5;
+  background-color: #375e04;
 }
 
 .footer-social li .google-plus:hover {
-  background-color: #dd4b39;
+  background-color: #375e04;
 }
 
 #copyright {
@@ -2310,7 +2310,7 @@ footer .menu li a:hover {
 }
 
 #copyright p a:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 #copyright .nav-inline .nav-link {
@@ -2320,7 +2320,7 @@ footer .menu li a:hover {
 }
 
 #copyright .nav-inline .nav-link:hover {
-  color: #F97794;
+  color: #375e04;
 }
 
 /* ==========================================================================
@@ -2375,7 +2375,7 @@ footer .menu li a:hover {
 
 .counter-item .icon i {
   font-size: 40px;
-  color: #F97794;
+  color: #375e04;
 }
 
 .counter-item .fact-count h3 {
